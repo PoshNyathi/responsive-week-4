@@ -124,7 +124,7 @@ p {
   @media (max-width: 576px) {
   h1 {
     font-size: 48px;
-    line-height: 1.5;
+    line-height: 0;
   }
 
   h2 {
